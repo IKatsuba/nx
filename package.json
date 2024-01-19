@@ -287,7 +287,7 @@
     "url-loader": "^4.1.1",
     "use-sync-external-store": "^1.2.0",
     "verdaccio": "^5.0.4",
-    "vite": "5.0.8",
+    "vite": "5.0.12",
     "vitest": "^1.0.4",
     "webpack": "5.88.0",
     "webpack-dev-server": "^4.9.3",
